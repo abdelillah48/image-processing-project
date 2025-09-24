@@ -48,7 +48,7 @@ Développer des algorithmes pour :
 pip install scikit-image opencv-python matplotlib numpy ipywidgets
 ```
 
-## 💻 Utilisation
+## Utilisation
 
 Le code est organisé en notebooks Jupyter avec des fonctions principales :
 
